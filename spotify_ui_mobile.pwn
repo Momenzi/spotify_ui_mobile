@@ -1,0 +1,167 @@
+new Text:TDEditor_TD[15];
+
+TDEditor_TD[0] = TextDrawCreate(456.666778, 45.074066, "mdl-2000:momenzi_Spotify");
+TextDrawLetterSize(TDEditor_TD[0], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[0], 176.000000, 363.000000);
+TextDrawAlignment(TDEditor_TD[0], 1);
+TextDrawColor(TDEditor_TD[0], -1);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+TextDrawSetOutline(TDEditor_TD[0], 0);
+TextDrawBackgroundColor(TDEditor_TD[0], 255);
+TextDrawFont(TDEditor_TD[0], 4);
+TextDrawSetProportional(TDEditor_TD[0], 0);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+
+TDEditor_TD[1] = TextDrawCreate(463.499786, 123.614761, "T");
+TextDrawLetterSize(TDEditor_TD[1], 0.366999, 2.259554);
+TextDrawAlignment(TDEditor_TD[1], 1);
+TextDrawColor(TDEditor_TD[1], 498446335);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+TextDrawSetOutline(TDEditor_TD[1], 0);
+TextDrawBackgroundColor(TDEditor_TD[1], 255);
+TextDrawFont(TDEditor_TD[1], 2);
+TextDrawSetProportional(TDEditor_TD[1], 1);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+
+TDEditor_TD[2] = TextDrawCreate(469.666534, 131.511062, "EODORA");
+TextDrawLetterSize(TDEditor_TD[2], 0.189333, 1.201777);
+TextDrawAlignment(TDEditor_TD[2], 1);
+TextDrawColor(TDEditor_TD[2], 498446335);
+TextDrawSetShadow(TDEditor_TD[2], 0);
+TextDrawSetOutline(TDEditor_TD[2], 0);
+TextDrawBackgroundColor(TDEditor_TD[2], 255);
+TextDrawFont(TDEditor_TD[2], 2);
+TextDrawSetProportional(TDEditor_TD[2], 1);
+TextDrawSetShadow(TDEditor_TD[2], 0);
+
+TDEditor_TD[3] = TextDrawCreate(466.666442, 141.051818, "109,096__monthly_listeners");
+TextDrawLetterSize(TDEditor_TD[3], 0.094333, 0.662518);
+TextDrawAlignment(TDEditor_TD[3], 1);
+TextDrawColor(TDEditor_TD[3], -1);
+TextDrawSetShadow(TDEditor_TD[3], 0);
+TextDrawSetOutline(TDEditor_TD[3], 0);
+TextDrawBackgroundColor(TDEditor_TD[3], 255);
+TextDrawFont(TDEditor_TD[3], 2);
+TextDrawSetProportional(TDEditor_TD[3], 1);
+TextDrawSetShadow(TDEditor_TD[3], 0);
+
+TDEditor_TD[4] = TextDrawCreate(591.366638, 134.100006, "Listen");
+TextDrawLetterSize(TDEditor_TD[4], 0.113666, 0.782815);
+TextDrawAlignment(TDEditor_TD[4], 1);
+TextDrawColor(TDEditor_TD[4], -1);
+TextDrawSetShadow(TDEditor_TD[4], 0);
+TextDrawSetOutline(TDEditor_TD[4], 0);
+TextDrawBackgroundColor(TDEditor_TD[4], 255);
+TextDrawFont(TDEditor_TD[4], 2);
+TextDrawSetProportional(TDEditor_TD[4], 1);
+TextDrawSetShadow(TDEditor_TD[4], 0);
+
+TDEditor_TD[5] = TextDrawCreate(463.033142, 163.551849, "P");
+TextDrawLetterSize(TDEditor_TD[5], 0.213666, 1.359407);
+TextDrawAlignment(TDEditor_TD[5], 1);
+TextDrawColor(TDEditor_TD[5], -1);
+TextDrawSetShadow(TDEditor_TD[5], 0);
+TextDrawSetOutline(TDEditor_TD[5], 0);
+TextDrawBackgroundColor(TDEditor_TD[5], 255);
+TextDrawFont(TDEditor_TD[5], 2);
+TextDrawSetProportional(TDEditor_TD[5], 1);
+TextDrawSetShadow(TDEditor_TD[5], 0);
+
+TDEditor_TD[6] = TextDrawCreate(468.399932, 167.700027, "opular");
+TextDrawLetterSize(TDEditor_TD[6], 0.123999, 0.799407);
+TextDrawAlignment(TDEditor_TD[6], 1);
+TextDrawColor(TDEditor_TD[6], -1);
+TextDrawSetShadow(TDEditor_TD[6], 0);
+TextDrawSetOutline(TDEditor_TD[6], 0);
+TextDrawBackgroundColor(TDEditor_TD[6], 255);
+TextDrawFont(TDEditor_TD[6], 2);
+TextDrawSetProportional(TDEditor_TD[6], 1);
+TextDrawSetShadow(TDEditor_TD[6], 0);
+
+TDEditor_TD[7] = TextDrawCreate(489.333007, 244.755554, "Tresi,_Tresi");
+TextDrawLetterSize(TDEditor_TD[7], 0.089333, 0.654222);
+TextDrawAlignment(TDEditor_TD[7], 2);
+TextDrawColor(TDEditor_TD[7], -1);
+TextDrawSetShadow(TDEditor_TD[7], 0);
+TextDrawSetOutline(TDEditor_TD[7], 0);
+TextDrawBackgroundColor(TDEditor_TD[7], 255);
+TextDrawFont(TDEditor_TD[7], 2);
+TextDrawSetProportional(TDEditor_TD[7], 1);
+TextDrawSetShadow(TDEditor_TD[7], 0);
+
+TDEditor_TD[8] = TextDrawCreate(480.666381, 250.977737, "Teodora");
+TextDrawLetterSize(TDEditor_TD[8], 0.094333, 0.662518);
+TextDrawAlignment(TDEditor_TD[8], 1);
+TextDrawColor(TDEditor_TD[8], -1498829654);
+TextDrawSetShadow(TDEditor_TD[8], 0);
+TextDrawSetOutline(TDEditor_TD[8], 0);
+TextDrawBackgroundColor(TDEditor_TD[8], 255);
+TextDrawFont(TDEditor_TD[8], 2);
+TextDrawSetProportional(TDEditor_TD[8], 1);
+TextDrawSetShadow(TDEditor_TD[8], 0);
+
+TDEditor_TD[9] = TextDrawCreate(551.666198, 244.755554, "Nokaut");
+TextDrawLetterSize(TDEditor_TD[9], 0.089333, 0.654222);
+TextDrawAlignment(TDEditor_TD[9], 2);
+TextDrawColor(TDEditor_TD[9], -1);
+TextDrawSetShadow(TDEditor_TD[9], 0);
+TextDrawSetOutline(TDEditor_TD[9], 0);
+TextDrawBackgroundColor(TDEditor_TD[9], 255);
+TextDrawFont(TDEditor_TD[9], 2);
+TextDrawSetProportional(TDEditor_TD[9], 1);
+TextDrawSetShadow(TDEditor_TD[9], 0);
+
+TDEditor_TD[10] = TextDrawCreate(542.333068, 250.977737, "Teodora");
+TextDrawLetterSize(TDEditor_TD[10], 0.094333, 0.662518);
+TextDrawAlignment(TDEditor_TD[10], 1);
+TextDrawColor(TDEditor_TD[10], -1498829654);
+TextDrawSetShadow(TDEditor_TD[10], 0);
+TextDrawSetOutline(TDEditor_TD[10], 0);
+TextDrawBackgroundColor(TDEditor_TD[10], 255);
+TextDrawFont(TDEditor_TD[10], 2);
+TextDrawSetProportional(TDEditor_TD[10], 1);
+TextDrawSetShadow(TDEditor_TD[10], 0);
+
+TDEditor_TD[11] = TextDrawCreate(616.332824, 244.755554, "Kairo");
+TextDrawLetterSize(TDEditor_TD[11], 0.093666, 0.616888);
+TextDrawAlignment(TDEditor_TD[11], 2);
+TextDrawColor(TDEditor_TD[11], -1);
+TextDrawSetShadow(TDEditor_TD[11], 0);
+TextDrawSetOutline(TDEditor_TD[11], 0);
+TextDrawBackgroundColor(TDEditor_TD[11], 255);
+TextDrawFont(TDEditor_TD[11], 2);
+TextDrawSetProportional(TDEditor_TD[11], 1);
+TextDrawSetShadow(TDEditor_TD[11], 0);
+
+TDEditor_TD[12] = TextDrawCreate(606.999633, 250.977737, "Teodora");
+TextDrawLetterSize(TDEditor_TD[12], 0.094333, 0.662518);
+TextDrawAlignment(TDEditor_TD[12], 1);
+TextDrawColor(TDEditor_TD[12], -1498829654);
+TextDrawSetShadow(TDEditor_TD[12], 0);
+TextDrawSetOutline(TDEditor_TD[12], 0);
+TextDrawBackgroundColor(TDEditor_TD[12], 255);
+TextDrawFont(TDEditor_TD[12], 2);
+TextDrawSetProportional(TDEditor_TD[12], 1);
+TextDrawSetShadow(TDEditor_TD[12], 0);
+
+TDEditor_TD[13] = TextDrawCreate(472.999664, 359.244506, "Now_Playing");
+TextDrawLetterSize(TDEditor_TD[13], 0.093999, 0.612740);
+TextDrawAlignment(TDEditor_TD[13], 2);
+TextDrawColor(TDEditor_TD[13], -1498829654);
+TextDrawSetShadow(TDEditor_TD[13], 0);
+TextDrawSetOutline(TDEditor_TD[13], 0);
+TextDrawBackgroundColor(TDEditor_TD[13], 255);
+TextDrawFont(TDEditor_TD[13], 2);
+TextDrawSetProportional(TDEditor_TD[13], 1);
+TextDrawSetShadow(TDEditor_TD[13], 0);
+
+TDEditor_TD[14] = TextDrawCreate(477.666351, 366.711151, "Teodora_-_Taxi");
+TextDrawLetterSize(TDEditor_TD[14], 0.107999, 0.799407);
+TextDrawAlignment(TDEditor_TD[14], 2);
+TextDrawColor(TDEditor_TD[14], -1);
+TextDrawSetShadow(TDEditor_TD[14], 0);
+TextDrawSetOutline(TDEditor_TD[14], 0);
+TextDrawBackgroundColor(TDEditor_TD[14], 255);
+TextDrawFont(TDEditor_TD[14], 2);
+TextDrawSetProportional(TDEditor_TD[14], 1);
+TextDrawSetShadow(TDEditor_TD[14], 0);
